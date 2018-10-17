@@ -7,6 +7,7 @@ Cordova Plugin For Multiple Image Selection - implemented for iOS and Android 4.
 
 * japanese localization (probably hardcoded in Android, don't quite remember)
 * proper support for Android permission requesting
+* can install on cordova android 7.0 (AndroidManifest.xml paths in plugin.xml are updated)
 
 ## Installing the plugin
 

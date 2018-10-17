@@ -1,0 +1,19 @@
+{
+  "name": "cordova-plugin-imagepicker-condatte",
+  "version": "1.0.0",
+  "description": "cordova-imagePicker ===================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anchann/cordova-plugin-imagePicker-condatte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anchann/cordova-plugin-imagePicker-condatte/issues"
+  },
+  "homepage": "https://github.com/anchann/cordova-plugin-imagePicker-condatte#readme"
+}
